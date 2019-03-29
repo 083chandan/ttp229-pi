@@ -1,4 +1,4 @@
-# ttp229-pi
+# TTP229-pi
 
 Interfacing the TTP229 using two wires with Raspberry Pi 3 using python.
 
